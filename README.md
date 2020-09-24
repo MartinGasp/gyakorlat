@@ -1,2 +1,2 @@
 # gyakorlat
-Ez az első repository!
+Ez az elso repository!
